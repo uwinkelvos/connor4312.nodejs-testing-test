@@ -1,0 +1,9 @@
+{
+  "nodejs-testing.extensions": [
+    {
+      "extensions": ["mjs", "cjs", "js"],
+      "parameters": []
+    }
+  ],
+  "nodejs-testing.include": ["./dist/"]
+}
